@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bg-react-plantita/static/css/main.19a88387.css",
-    "main.js": "/bg-react-plantita/static/js/main.cb7da3bf.js",
+    "main.js": "/bg-react-plantita/static/js/main.cf1a9cda.js",
     "static/js/787.38b45d74.chunk.js": "/bg-react-plantita/static/js/787.38b45d74.chunk.js",
     "static/media/bonsai-plant.png": "/bg-react-plantita/static/media/bonsai-plant.e89d93dfa28ddff6a097.png",
     "static/media/plant-real.png": "/bg-react-plantita/static/media/plant-real.9e03433374079344148d.png",
@@ -10,11 +10,11 @@
     "static/media/plant-logo.png": "/bg-react-plantita/static/media/plant-logo.cd1beafde6e9c39cf891.png",
     "index.html": "/bg-react-plantita/index.html",
     "main.19a88387.css.map": "/bg-react-plantita/static/css/main.19a88387.css.map",
-    "main.cb7da3bf.js.map": "/bg-react-plantita/static/js/main.cb7da3bf.js.map",
+    "main.cf1a9cda.js.map": "/bg-react-plantita/static/js/main.cf1a9cda.js.map",
     "787.38b45d74.chunk.js.map": "/bg-react-plantita/static/js/787.38b45d74.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19a88387.css",
-    "static/js/main.cb7da3bf.js"
+    "static/js/main.cf1a9cda.js"
   ]
 }
